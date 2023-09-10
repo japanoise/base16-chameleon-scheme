@@ -15,7 +15,7 @@ rough order of importance:
 1. The scheme must be *legible* 
    - All the colors must stand out against the default foreground. In current
      year, this is how we write terminal programs. Basically, is default vim's
-     or vanilla gomacs' syntax highlighting legible?
+     or vanilla [gomacs][gomacs]' syntax highlighting legible?
    - At the same time, as a nice-to-have, are the colors legible against each
      other? It's somewhat rare but not unheard of that a program will still be
      using blue as a background color, in which case the blue color is left in
@@ -28,7 +28,7 @@ rough order of importance:
      offender here is cyan, blue, and occasionally green or even the background
      muddling together like the awful Solarized Dark.
    - This obviously ties into the last virtue, but it's possible to be legible
-     yet indistinct. Plenty of the stock base16 fonts look lovely, but two of
+     yet indistinct. Plenty of the stock base16 schemes look lovely, but two of
      the colors are inexplicably the same or so similar that it's hard to tell
      them apart.
 
@@ -50,6 +50,8 @@ be legible, second be distinct, and third be unique and aesthetically pleasing.
 There's some useful side effects; blue as a background doesn't looks *great* but
 it is at least legible enough to go through a menu and change to a theme that
 doesn't suck.
+
+[gomacs]: https://github.com/japanoise/gomacs
 
 ## The colors
 
