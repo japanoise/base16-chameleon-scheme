@@ -121,12 +121,13 @@ and some thoughts on each color.
 
 ## History
 
-Once upon a time, this was a theme called *Gotham* which I found in
-[terminal.sexy](https://terminal.sexy/), created by someone called
-'whatyouhide'. At a glance this theme already looks great - I particularly love
-the murky, ambiguously blue-green foreground - but I'm not a fan of the
-illegible blue shades for the bright colors. This theme is not usable as-is but
-it's a really nice start!
+Once upon a time, this was a vim theme called *Gotham* which I originally found
+in [terminal.sexy](https://terminal.sexy/), created by Andrea 'whatyouhide'
+Leopardi - [check it out here](https://github.com/whatyouhide/vim-gotham). At a
+glance this theme already looks great - I particularly love the murky,
+ambiguously blue-green foreground - but I'm not a fan of the illegible blue
+shades for the bright colors. This theme is not usable as-is but it's a really
+nice start!
 
 I tweaked this colorscheme to my liking, rechristened it "gotham-chameleon", and
 used it for many years as my theme everywhere - the legacy is still visible in
